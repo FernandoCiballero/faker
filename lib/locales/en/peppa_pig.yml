@@ -1,0 +1,29 @@
+en:
+  faker:
+    peppa_pig:
+      characters: ["Mummy Pig", "Daddy Pig", "George Pig", "Grandpa Pig", "Granny Pig", "Suzy Sheep"]
+      facts: [ 
+        "Peppa loves to play with her friends especially her best friend Suzy Sheep", 
+        "Peppa loves jumping up and down in muddy puddles",
+        "Peppa loves spaghetti and pancakes",
+        "Peppa loves going to playgroup",
+        "Peppa loves riding her bicycle",
+        "Peppa loves ice cream",
+        "Peppa loves dancing to music",
+        "Peppa loves feeding the ducks",
+        "Peppa loves going on picnics",
+        "Peppa loves chocolate",
+        "Peppa loves to play I-spy",
+        "Peppa loves to play happy Mrs Chicken",
+        "Peppa loves fancy dress parties",
+        "Peppa loves her tree house",
+        "Peppa loves tea parties",
+        "Peppa loves blowing bubbles"
+      ]
+      quotes: [
+        "Silly Daddy, your tummy is too big.", 
+        "If you are jumping up and down in muddy puddles you must wear your boots.",
+        "Blah, blah, blah that's how daddies talk!" ,
+        "I'm sorry I said you cheated…even though you DID cheat!", 
+        "George! You're doing it ALL wrong!"
+      ]

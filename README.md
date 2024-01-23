@@ -457,6 +457,7 @@ gem 'faker', :git => 'https://github.com/faker-ruby/faker.git', :branch => 'main
   - [Faker::TvShows::MichaelScott](doc/tv_shows/michael_scott.md)
   - [Faker::TvShows::NewGirl](doc/tv_shows/new_girl.md)
   - [Faker::TvShows::ParksAndRec](doc/tv_shows/parks_and_rec.md)
+  - [Faker::TvShows::PeppaPig](doc/tv_shows/peppa_pig.md)
   - [Faker::TvShows::RickAndMorty](doc/tv_shows/rick_and_morty.md)
   - [Faker::TvShows::RuPaul](doc/tv_shows/rupaul.md)
   - [Faker::TvShows::Seinfeld](doc/tv_shows/seinfeld.md)
